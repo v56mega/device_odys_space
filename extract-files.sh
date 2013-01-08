@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PROPS=../../../vendor/odys/space/proprietary/
+PROPS=../../../vendor/huawei/hwm920/proprietary/
 
 mkdir -p $PROPS
 mkdir -p $PROPS/modules
